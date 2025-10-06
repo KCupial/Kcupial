@@ -1,16 +1,43 @@
-## Hi there 👋
+# Data Analytics Portfolio
 
-<!--
-**KCupial/Kcupial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my data analytics portfolio.  
 
-Here are some ideas to get you started:
+This repository showcases selected projects that demonstrate my skills in data analysis, finance, statistics, and business intelligence. I work mainly with SQL, Power BI, Python, VBA, and Excel to turn raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am currently pursuing a Master’s degree in Financial Analyst 2.0 at the University of Economics in Katowice.  
+My studies and personal interest with data scince have helped me develop strong analytical thinking skills, a data-driven approach to problem-solving, and the ability to present complex information clearly and effectively.
+
+I have worked in an international environment where I communicated daily in English and collaborated with teams across different departments. I enjoy working independently on analytical tasks, learning new tools, and improving my technical skills.
+
+## Skills
+
+- SQL – queries, data analysis, database management  
+- Power BI – data modeling, dashboard creation, DAX  
+- Excel & VBA – advanced formulas, automation, macro development  
+- Python – data manipulation and analysis (Pandas, NumPy), basic statistics  
+- Statistics & Finance – forecasting, econometric analysis, risk modeling
+- English – C1
+
+## Selected Projects
+
+Here are a few examples of my work:
+
+- [Data Cleaning with SQL – Nashville Housing](https://github.com/username/nashville-housing-data-cleaning)  
+Cleaned and prepared a real estate dataset in MySQL.
+
+- [Retail Dashboard (Power BI)](https://github.com/username/powerbi-dashboard-retail)  
+  An interactive dashboard visualizing sales performance, product profitability, and key business metrics.
+
+- [Portfolio Risk Analysis (Excel + VBA)](https://github.com/username/portfolio-risk-analysis)  
+  Financial portfolio analysis with VaR and CVaR calculations, including VBA automation and data visualization.
+
+## Career Goals
+
+I am interested in opportunities in data analysis and business intelligence. My goal is to apply my skills to solve real business problems, support data-driven decision-making, and continue developing my technical expertise.
+
+## Contact
+
+Location: Katowice, Poland  
+Email: [your-email@example.com](mailto:your-email@example.com)  
