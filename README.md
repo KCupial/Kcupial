@@ -27,7 +27,7 @@ Here are a few examples of my work:
 - [Adventure Works Retail Dashboard (Power BI)](https://github.com/username/powerbi-dashboard-retail)  
   An interactive dashboard visualizing sales performance, product profitability, and key business metrics.
 
-- [Portfolio Risk Analysis (Python)](https://github.com/username/portfolio-risk-analysis)  
+- [Portfolio Risk Analysis (Python)](https://github.com/KCupial/Portfolio-Risk-Analysis-in-Python-Google-Colab-.git)  
 This project analyzes the statistical properties, volatility, and risk measures of three global companies’ stock returns (BHP, Pfizer, and LVMH) using log returns, autocorrelation, and Value at Risk metrics to assess financial risk and market behavior.
 
 ## Career Goals
