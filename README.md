@@ -37,4 +37,4 @@ I am interested in opportunities in data analysis and business intelligence. My 
 ## Contact
 
 Location: Katowice, Poland  
-Email: [your-email@example.com](mailto:your-email@example.com)  
+Email: kasiacupial270@gmail.com 
