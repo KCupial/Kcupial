@@ -24,14 +24,11 @@ I have worked in an international environment where I communicated daily in Engl
 
 Here are a few examples of my work:
 
-- [Data Cleaning with SQL – Nashville Housing](https://github.com/username/nashville-housing-data-cleaning)  
-Cleaned and prepared a real estate dataset in MySQL.
-
-- [Retail Dashboard (Power BI)](https://github.com/username/powerbi-dashboard-retail)  
+- [Adventure Works Retail Dashboard (Power BI)](https://github.com/username/powerbi-dashboard-retail)  
   An interactive dashboard visualizing sales performance, product profitability, and key business metrics.
 
-- [Portfolio Risk Analysis (Excel + VBA)](https://github.com/username/portfolio-risk-analysis)  
-  Financial portfolio analysis with VaR and CVaR calculations, including VBA automation and data visualization.
+- [Portfolio Risk Analysis (Python)](https://github.com/username/portfolio-risk-analysis)  
+This project analyzes the statistical properties, volatility, and risk measures of three global companies’ stock returns (BHP, Pfizer, and LVMH) using log returns, autocorrelation, and Value at Risk metrics to assess financial risk and market behavior.
 
 ## Career Goals
 
