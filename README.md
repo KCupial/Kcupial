@@ -24,7 +24,7 @@ I have worked in an international environment where I communicated daily in Engl
 
 Here are a few examples of my work:
 
-- [Adventure Works Retail Dashboard (Power BI)](https://github.com/username/powerbi-dashboard-retail)  
+- [Adventure Works Retail Dashboard (Power BI)](https://github.com/KCupial/AdventureWorks-Power-BI-Dashboard.git)  
   An interactive dashboard visualizing sales performance, product profitability, and key business metrics.
 
 - [Portfolio Risk Analysis (Python)](https://github.com/KCupial/Portfolio-Risk-Analysis-in-Python-Google-Colab-.git)  
